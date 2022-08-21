@@ -1,2 +1,4 @@
-[ci]
-fuzz-runs = 10_000
+[profile.default]
+ffi = true
+gas_reports = ["*"]
+out = "out"
