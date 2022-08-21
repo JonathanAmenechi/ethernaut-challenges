@@ -1,4 +1,3 @@
 [profile.default]
 ffi = true
 gas_reports = ["*"]
-out = "out"
